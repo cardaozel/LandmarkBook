@@ -30,7 +30,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         landmarkNames.append("Great Wall of China")
         landmarkNames.append("Kremlin")
         landmarkNames.append("Great Pyramid of Giza")
-        landmarkNames.append("Stonhenge")
+        landmarkNames.append("Stonehenge")
         landmarkNames.append("Machu Picchu")
         
       
